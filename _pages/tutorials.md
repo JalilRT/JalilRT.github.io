@@ -3,4 +3,4 @@ permalink: /tutorials/
 title: "Tutorials"
 ---
 
-MRI, Behavior, Inmunohistochemestry, Statististics and others
+MRI, Behavior, Inmunohistochemistry, Statististics and others
