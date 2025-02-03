@@ -1,7 +1,6 @@
 ---
 permalink: /publications/
 title: "Scientific trayectory"
-author_profile: false
 ---
 
 ## Links
