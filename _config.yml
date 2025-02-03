@@ -65,7 +65,7 @@ author:
     with interest in psychiatry disorders, evolution and social dynamics"
   links:
     - label: "Orcid"
-      icon: "fas fa-fw fa-orcid"
+      icon: "fas fa-fw fa-link"
       url: "https://orcid.org/0000-0001-5216-7177"
     - label: "Bluesky"
       icon: "fab fa-fw fa-twitter-square"

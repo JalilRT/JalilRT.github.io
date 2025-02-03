@@ -1,6 +1,7 @@
 ---
 permalink: /publications/
 title: "Scientific trayectory"
+author_profile: false
 ---
 
 ## Links
@@ -13,4 +14,3 @@ title: "Scientific trayectory"
 ## Publications
 ---
 
-<iframe src="https://scholar.google.com/citations?user=VrNwDBQAAAAJ&hl=es" style="width:100%; height:600px; border:none;"></iframe>

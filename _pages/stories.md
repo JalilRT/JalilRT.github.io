@@ -1,5 +1,4 @@
 ---
-title: "Research"
-permalink: /research/
-layout: research
+title: "stories"
+permalink: /stories/
 ---
