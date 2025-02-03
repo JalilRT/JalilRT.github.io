@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: "Scientific trayectory"
 ---
 
 ## Links
